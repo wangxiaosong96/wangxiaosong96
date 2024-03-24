@@ -1,6 +1,6 @@
 <!-- ### Welcome to the XiaosongGitHub page! 👋 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;lines=Welcome to the XiaosongGitHub page! 👋;欢迎来到小松GitHub首页!👋&center=true&size=27"></h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome to the XiaosongGitHub page! 👋;欢迎来到小松GitHub首页!👋&center=true&size=27"></h1>
 
 
 
