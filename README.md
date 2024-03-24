@@ -55,7 +55,6 @@ Here are some ideas to get you started:
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/wangxiaosong96)) visitor, Thank You!🎉🎉
 
 Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@:sunpm)](https://github.com/wangxiaosong96) visitor, Thank You!🎉🎉
 
