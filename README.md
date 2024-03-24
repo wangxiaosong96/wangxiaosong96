@@ -1,6 +1,6 @@
-<!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
+<!-- ### Welcome to the XiaosongGitHub page! 👋 -->
 
-<h1 align="center">欢迎来到前端嚣张农民GitHub主页👋</h1>
+<h1 align="center">Welcome to the XiaosongGitHub page!👋</h1>
 
 <!--
 **linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
