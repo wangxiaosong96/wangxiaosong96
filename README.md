@@ -48,7 +48,8 @@ Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@:sunpm)](ht
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/wangxiaosong96/count.svg" />
+
+<!-- <img src="https://count.getloli.com/get/@:wangxiaosong96?theme=moebooru"> -->
 
 
 
