@@ -47,9 +47,7 @@ Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@:sunpm)](ht
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wangxiaosong96&count_private=true&show_icons=true"/>
 
 
-### 🛳 &nbsp;Your ticket ID for this visit
 
-<!-- <img src="https://count.getloli.com/get/@:wangxiaosong96?theme=moebooru"> -->
 
 
 
