@@ -1,6 +1,6 @@
 <!-- ### Welcome to the XiaosongGitHub page! 👋 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome%20to%20the;Xiaosong%20GitHub%20page%20!!!%20👋;欢迎来到小松GitHub首页%20!!!%20👋&center=true&size=27"></h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the;Xiaosong%20GitHub%20page%20!!!%20👋;欢迎来到小松GitHub首页%20!!!%20👋&center=true&size=27"></h1>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - I can't use any of these tools:
